@@ -1,5 +1,4 @@
 import { DarkTheme, ThemeProvider } from '@react-navigation/native';
-import { WixProvider } from '@wix/sdk-react';
 import { Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 
@@ -17,9 +16,7 @@ function _RootLayout() {
 export default function RootLayout() {
   return (
     <ThemeProvider value={DarkTheme}>
-      <WixProvider>
-        <_RootLayout />
-      </WixProvider>
+      <_RootLayout />
     </ThemeProvider>
   );
 }
