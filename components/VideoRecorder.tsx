@@ -52,7 +52,7 @@ export function VideoRecorder({ onVideoRecorded }: VideoRecorderProps) {
       )}
       {recording.recordingState === 'recording' && (
         <Image
-          source={require('../../assets/animations/recording.gif')}
+          source={require('../assets/animations/recording.gif')}
           style={styles.recording}
         />
       )}
@@ -88,5 +88,6 @@ const styles = StyleSheet.create({
     bottom: 10,
     width: 75,
     height: 75,
+    objectFit: 'contain',
   },
 });
