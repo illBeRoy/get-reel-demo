@@ -4,8 +4,6 @@
 
 Get Reel is an educational project designed to demonstrate how to integrate Wix Headless with React Native applications. This project serves as a practical guide for developers looking to leverage Wix's powerful backend services in their mobile apps.
 
-You are viewing the `getting-started` branch, which contains only the boilerplate code. If you want to see the full implementation, check out the [`main`](https://github.com/illBeRoy/get-reel-demo/tree/main) branch.
-
 ## Features
 
 By building this app, you will learn how to:
