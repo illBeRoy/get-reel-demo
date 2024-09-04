@@ -6583,7 +6583,7 @@ __metadata:
     react-test-renderer: "npm:18.2.0"
     typescript: "npm:~5.3.3"
     typescript-eslint: "npm:^8.3.0"
-    wix-login-react-native: "npm:^1.0.6"
+    wix-login-react-native: "npm:^1.0.8"
   languageName: unknown
   linkType: soft
 
@@ -12755,9 +12755,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wix-login-react-native@npm:^1.0.6":
-  version: 1.0.6
-  resolution: "wix-login-react-native@npm:1.0.6"
+"wix-login-react-native@npm:^1.0.8":
+  version: 1.0.8
+  resolution: "wix-login-react-native@npm:1.0.8"
   peerDependencies:
     "@wix/sdk": "*"
     expo-crypto: "*"
@@ -12765,7 +12765,7 @@ __metadata:
     react: "*"
     react-native: "*"
     react-native-webview: "*"
-  checksum: 10c0/8d7e20716f5bc389615745bb764c63c3bf5dffa585ccaa2f28a1a4dd826e71496047a29d1fdbc68f1c5ad7bee5e8a6f5696c1a0a7b675b1c06d76e409bf2cf2b
+  checksum: 10c0/7a641a1fdd4962d9cf8089f0677c4ea2941249c509af423a0414252ceb3432e5047f04f2ef54166ace7843f7bbcf8271f217b5a89956f57dcee30b369c28f75f
   languageName: node
   linkType: hard
 
